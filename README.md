@@ -7,11 +7,11 @@ Com muito estudo e dedicação, vou me transformar em um profissional excelente 
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSilva1910&show_icons=true&theme=dark)]((https://github.com/DanSilva1910/DanSilva1910.git))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSilva1910&show_icons=true&theme=dark)](https://github.com/DanSilva1910/DanSilva1910.git)
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Clone_TikTok_Project&theme=dark)](https://github.com/DanSilva1910/DanSilva1910.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Clone_TikTok_Project&theme=dark)](https://github.com/DanSilva1910/Clone_TikTok_Project.git)
 
 ### Linguagens utilizadas
 
