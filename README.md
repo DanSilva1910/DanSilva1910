@@ -23,7 +23,7 @@ Meu objetivo é me tornar um profissional de destaque no campo do desenvolviment
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Clone_TikTok_Project&theme=dark)](https://github.com/DanSilva1910/DesafioPokedex.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Clone_TikTok_Project&theme=dark)](https://github.com/DanSilva1910/Clone_TikTok_Project.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Pokedex_Project&theme=dark)](https://github.com/DanSilva1910/DesafioPokedex.git)
 
 ### Linguagens utilizadas
