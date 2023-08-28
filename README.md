@@ -19,7 +19,7 @@ Meu objetivo é me tornar um profissional de destaque no campo do desenvolviment
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSilva1910&show_icons=true&theme=dark)](https://github.com/DanSilva1910/DanSilva1910.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Clone_TikTok_Project&theme=dark)](https://github.com/DanSilva1910/Clone_TikTok_Project.git);
 
 ### Projeto
 
