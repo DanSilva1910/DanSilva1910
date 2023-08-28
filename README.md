@@ -18,14 +18,10 @@ Minha capacidade de aprender e aplicar uma variedade de comandos na programaçã
 Meu objetivo é me tornar um profissional de destaque no campo do desenvolvimento de software. Estou comprometido com um processo contínuo de aprendizado e melhoria, buscando sempre desafios interessantes e oportunidades para aplicar meus conhecimentos.
 
 ### Detalhes
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Clone_TikTok_Project&theme=dark)](https://github.com/DanSilva1910/Clone_TikTok_Project.git);
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSilva1910&show_icons=true&theme=radical)
 
 ### Projeto
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Pokedex_Project&theme=dark)](https://github.com/DanSilva1910/DesafioPokedex.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanSilva1910&repo=Clone_TikTok_Project&theme=dark)](https://github.com/DanSilva1910/Clone_TikTok_Project.git);
 
 ### Linguagens utilizadas
 
