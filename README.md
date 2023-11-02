@@ -9,7 +9,7 @@ Sou um profissional dedicado e apaixonado por desafios. Com um histórico de mai
 
 ## Tecnologias e Habilidades
 
-Atualmente, estou direcionando meus esforços para aprofundar meus estudos na linguagem de programação Java. Minha vasta experiência prévia na programação de máquinas CNC, onde adquiri conhecimentos em diversos comandos e abordagens, proporcionou-me uma base sólida em lógica de programação e resolução de problemas complexos. Estou aplicando essa versatilidade no mundo da programação de software, onde estou aprimorando minhas habilidades de codificação e desenvolvimento de aplicações.
+Atualmente, estou direcionando meus esforços para aprofundar meus estudos na linguagem de programação Java e Javascript. Minha vasta experiência prévia na programação de máquinas CNC, onde adquiri conhecimentos em diversos comandos e abordagens, proporcionou-me uma base sólida em lógica de programação e resolução de problemas complexos. Estou aplicando essa versatilidade no mundo da programação de software, onde estou aprimorando minhas habilidades de codificação e desenvolvimento de aplicações.
 
 Minha capacidade de aprender e aplicar uma variedade de comandos na programação CNC me permite abordar diferentes tipos de linguagens de programação com confiança e adaptabilidade. Estou confiante de que essa experiência diversificada é um trunfo valioso na minha jornada para me tornar um desenvolvedor de software excepcional.
 
